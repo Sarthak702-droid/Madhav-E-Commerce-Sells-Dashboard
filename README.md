@@ -51,8 +51,10 @@ This project focuses on building a **data visualization dashboard** using Power 
 
 ## 📁 Dataset Used:-
 
-1.Details.csv
-2.
+1.<a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+
+2.<a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+
 
 ---
 
