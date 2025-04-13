@@ -49,12 +49,6 @@ This project focuses on building a **data visualization dashboard** using Power 
 
 ---
 
-## 📁 Dataset Used:-
-
-1. <a href="https://github.com/YourUsername/Madhav-E-Commerce-Sells-Dashboard/blob/main/Datasets/Details.csv">Details.csv</a>
-2. <a href="https://github.com/YourUsername/Madhav-E-Commerce-Sells-Dashboard/blob/main/Datasets/Orders.csv">Orders.csv</a>
----
-
 ## 🧠 Business Recommendations
 
 - Boost sales during low-profit months with promotions or discounts.
@@ -66,7 +60,7 @@ This project focuses on building a **data visualization dashboard** using Power 
 ---
 
 ## 📸 Dashboard Overview
-madhav e-commerce sells dashbord_page-0001(1).jpg
+file:///C:/Users/91891/Desktop/madhav%20e-commerce%20dashboard/madhav%20e-commerce%20sells%20dashbord_page-0001(1).jpg
 
 ---
 
