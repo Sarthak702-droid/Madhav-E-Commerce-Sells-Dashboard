@@ -51,11 +51,8 @@ This project focuses on building a **data visualization dashboard** using Power 
 
 ## 📁 Dataset Used:-
 
-1.<a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
-
-2.<a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
-
-
+1. <a href="https://github.com/YourUsername/Madhav-E-Commerce-Sells-Dashboard/blob/main/Datasets/Details.csv">Details.csv</a>
+2. <a href="https://github.com/YourUsername/Madhav-E-Commerce-Sells-Dashboard/blob/main/Datasets/Orders.csv">Orders.csv</a>
 ---
 
 ## 🧠 Business Recommendations
