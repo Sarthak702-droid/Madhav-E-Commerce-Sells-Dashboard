@@ -76,7 +76,7 @@ This project focuses on building a **data visualization dashboard** using Power 
 For feedback or collaboration opportunities:
 
 **Madhav Sahu**  
-📧 Email: [your-email@example.com]  
+📧 Email: sarthaktripathty2004@gmail.com  
 🌐 Portfolio: [your-website.com]  
 🔗 LinkedIn: [linkedin.com/in/your-profile]
 
