@@ -65,9 +65,8 @@ This project focuses on building a **data visualization dashboard** using Power 
 
 ---
 
-## 📸 Screenshots
-
-![Dashboard Overview](madhav e-commerce sells dashbord_page-0001(1).jpg)
+## 📸 Dashboard Overview
+madhav e-commerce sells dashbord_page-0001(1).jpg
 
 ---
 
