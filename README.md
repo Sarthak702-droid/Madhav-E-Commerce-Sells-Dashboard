@@ -56,12 +56,6 @@ This project focuses on building a **data visualization dashboard** using Power 
 - Focus marketing efforts on high-return cities.
 - Promote high-profit sub-categories and streamline low-performing ones.
 - Encourage customers to use preferred payment modes with offers.
-
----
-
-## 📸 Dashboard Overview
-file:///C:/Users/91891/Desktop/madhav%20e-commerce%20dashboard/madhav%20e-commerce%20sells%20dashbord_page-0001(1).jpg
-
 ---
 
 ## 📬 Contact
